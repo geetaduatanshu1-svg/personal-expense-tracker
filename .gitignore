@@ -1,0 +1,8 @@
+# Ignore nested Git repository
+/personal-expense-tracker/
+
+# Ignore Maven build output
+/target/
+
+# Ignore compiled Java files
+*.class
